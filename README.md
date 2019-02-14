@@ -1,14 +1,20 @@
 # hexdoor
 
 [![License](https://img.shields.io/badge/license-WTFPL-ff69b4.svg)](https://github.com/sinofp/hexdoor/blob/master/LICENSE)
-![](https://img.shields.io/badge/version-WIP-red.svg)
+![version](https://img.shields.io/badge/version-0.1.0-red.svg)
 
-想要做一个可以编辑的hexyl，名称取自岸边露伴的替身 **Heaven's Door**.
+A `hexyl` clone，temporarily.
 
-## 前置
-	pip install fire colorama
+### Install
 
-## 现状
-[![hexdoor.png](https://i.postimg.cc/RqrNVbJM/20190213165425.png)](https://postimg.cc/QKbXfmqP)
+	pip install hexdoor
 
-目前仅能打印像hexyl那样打印，还没写编辑功能。
+### Usage
+
+	hexdoor FILE_NAME
+
+### Preview
+
+[![20190214145324.png](https://i.postimg.cc/qBPNFyF8/20190214145324.png)](https://postimg.cc/G9j388d2)
+
+###### The naming is a mix of hexyl and Rohan Kishibe's Stand because I'm trying to make it an hex EDITOR. But as you can see there's no editor mode yet.XD

@@ -57,5 +57,8 @@ def hexhandle(file_name):
             line = f_obj.read(16)
     print(FOOTER)
 
-if __name__ == '__main__':
+def main():
     fire.Fire(hexhandle)
+
+if __name__ == '__main__':
+    main()
